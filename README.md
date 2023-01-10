@@ -5,3 +5,4 @@
 #### Description: The Examples.html file is a shared database of commands and processes used for the next two. Since it is necessary to have clean data when forecasting, a certain number of filters, cleaning, and data transformations take place to create a competent forecast, which happens in the Full Version Project Spaceship Titanic.html file. The Presentation Spaceship Titanic.pptx file demonstrates several excerpts from this process.
 
 #### Business use: This process can speed up data handling and partition into more manageable systems. Also, the identification of potential factors that are responsible for the effectiveness of a particular product. Be it color or material.
+![image](https://user-images.githubusercontent.com/108850795/211638963-a52fad83-206e-4535-b2f6-e80b3b00da56.png)
